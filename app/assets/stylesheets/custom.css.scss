@@ -31,10 +31,10 @@ $navbar-default-bg: black;
   letter-spacing: -1px;
   font-weight: bold;
 }
-//.btn-danger{
-//  font-size: 1.7em;
-//  background-color: black;
-//}
+.btn-xlarge{
+  font-size: 1.7em;
+  background-color: black;
+}
 footer{
   margin-top: 45px;
   padding-top: 5px;
@@ -61,4 +61,14 @@ footer ul li{
 }
 .description{
   margin-top: 0;
+  font-weight: bold;
+}
+.article-title{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.article-body{
+  border-top: 1px solid #eaeaea;
+  padding-bottom: 15px;
+
 }
