@@ -9,6 +9,6 @@ This is a simple blogging website as a hobby project aimed to learning a Ruby-on
 * Creation of articles and assigning it to several categories.
 
 ## Built with
-[Ruby-on-rails](https://rubyonrails.org/)\
+[Ruby on Rails](https://rubyonrails.org/)\
 [Bootstarp](https://getbootstrap.com)
 
