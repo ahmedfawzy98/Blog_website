@@ -1,5 +1,5 @@
 # Alpha-Blog
-This is a simple blogging website as a hobby project aimed to learn Ruby-on-Rails, Bootstarp and web development.\
+This is a simple blogging website as a hobby project aimed to learn Ruby-on-Rails, Bootstarp and honing web development skills.\
 [Alpha-Blog](https://alphablog-ahmed.herokuapp.com/)
 
 
@@ -12,4 +12,7 @@ This is a simple blogging website as a hobby project aimed to learn Ruby-on-Rail
 ## Built with
 [Ruby on Rails](https://rubyonrails.org/)\
 [Bootstarp](https://getbootstrap.com)
+
+## Deployment
+[Heroku](https://heroku.com/)
 
